@@ -1,0 +1,6 @@
+{
+  "name": "Scalable URL Shortener",
+  "description": "High-performance URL shortener featuring real-time Redis caching simulations, database indexing visualization, token-bucket rate limiting, and an analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
